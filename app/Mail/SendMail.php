@@ -13,7 +13,7 @@ class SendMail extends Mailable
 
     /**
      * Create a new message instance.
-     *
+     *         
      * @return void
      */
     public $data;

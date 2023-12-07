@@ -13,10 +13,10 @@ class SendMail extends Mailable
 
     /**
      * Create a new message instance.
-     *         
+     *  
      * @return void
      */
-    public $data;
+    public $data;  
 
     public function __construct(Array $data)
     {

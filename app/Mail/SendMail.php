@@ -12,7 +12,7 @@ class SendMail extends Mailable
     use Queueable, SerializesModels;
 
     /**
-     * Create a new message instance.
+     * Create a new message instance for only one.
      *  
      * @return void
      */
